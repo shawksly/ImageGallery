@@ -32,23 +32,6 @@ nav {
     padding: 5px 20px;
 }
 
-/* Unused font */
-/* p {
-    font-family: 'Lora', serif;
-} */
-
-/* From when I thought the hero image wasn't part of the grid */
-/* #hero {
-    display: block;
-    width: 80%;
-    margin: 20px 10% 40px;
-    padding: 0px;
-}
-#hero img {
-    display: inline-block;
-    width: 100%;
-} */
-
 /* Grid styling and configuration */
 #grid {
     display: grid;
@@ -82,8 +65,25 @@ footer {
 }
 
 footer p {
-    margin: 10px 0px 5px;
+    margin: 5px 0px 0px;
     text-align: center;
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 40px;
+    font-size: 3rem;
 }
+
+/* Unused font */
+/* p {
+    font-family: 'Lora', serif;
+} */
+
+/* From when I thought the hero image wasn't part of the grid */
+/* #hero {
+    display: block;
+    width: 80%;
+    margin: 20px 10% 40px;
+    padding: 0px;
+}
+#hero img {
+    display: inline-block;
+    width: 100%;
+} */
